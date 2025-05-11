@@ -16,6 +16,6 @@
 
 ## Sobre Mim
 
-- eu tenho muito interesse no desenvolvimento de jogos
-- gosto muito de desenhar como hobby
-- e leio livros de vez em quando, historias de fantasia medieval são interessantes, mas alguns livros de filosofia chamam a minha atenção.
+- eu tenho muito interesse no desenvolvimento de jogos 🎮
+- gosto muito de desenhar como hobby 🖋️
+- e leio livros de vez em quando, historias de fantasia medieval são interessantes, mas alguns livros de filosofia chamam a minha atenção. 📖
